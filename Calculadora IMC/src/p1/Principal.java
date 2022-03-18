@@ -58,7 +58,7 @@ public class Principal {
 						JOptionPane.showMessageDialog(null, "Você é abaixo do peso!");
 						break;
 					} else {
-				if (IMC <= normalPeso) {
+				if (IMC >= normalPeso) {
 						JOptionPane.showMessageDialog(null, "Você esta entre o peso!");
 						break;
 					} else {
