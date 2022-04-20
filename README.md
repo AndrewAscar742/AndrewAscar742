@@ -1,9 +1,10 @@
-- 👋 Hello, I’m @AndrewAscar742, I'm 18 years old and i'm a man
-- 👀 I’m interested in work with Front-End and Back-End
-- 🌱 I’m currently learning about Java, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on the community and Businesses
-- 📫 My hobbies in the free time is Play Table-Tennis, play videogame, listen songs and doing exercises
 
+
+<h1>Olá, eu sou Andrew Matos Ascar, Desenvolvedor Front-End e Desenvolvedor Java </h1>
+
+- 📘 I’m currently learning about Java, HTML, CSS and JavaScript
+- 📫 My hobbies in the free time is Play Table-Tennis, play videogame, listen songs and doing exercises
+<hr>
 <br>
 
 <div style="display: inline_block">
