@@ -1,8 +1,9 @@
 
 
 <h1>Olá, eu sou Andrew Matos Ascar, Desenvolvedor Front-End e Desenvolvedor Java </h1>
-- 📘 I’m currently learning about Java, HTML, CSS and JavaScript
-- 📫 My hobbies in the free time is Play Table-Tennis, play videogame, listen songs and doing exercises
+<h3> - 📘 I’m currently learning about Springboot, ReactJS, JavaWeb and Java & Persistence </h3>
+<h3> - 📫 My hobbies in the free time is Play Table-Tennis, play videogame, listen songs and doing exercises </h3>
+<h3> - 👩🏻‍💻 The phrase that i most love is: "Never give up"
 <hr>
 <br>
 
@@ -22,6 +23,9 @@
   <img align="center" alt="Andrew-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andrew-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
   <img align="center" alt="Git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> </div>
+  <img align="center" alt="Andrew-ReactJS" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Andrew-PostgreSQL" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    
                                                                                                                                           
   <br>
   <br> 
