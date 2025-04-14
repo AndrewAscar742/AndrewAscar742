@@ -36,7 +36,7 @@
   <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Apache JMeter" height="50" src="https://jmeter.apache.org/images/jmeter_square.svg" />
-  <img alt="Robot Framework" height="50" src="https://en.wikipedia.org/wiki/File:Robot-framework-logo.png" />
+  <img alt="Robot Framework" height="50" src="https://en.m.wikipedia.org/wiki/File:Robot-framework-logo.png" />
 </div>
 
 ---
