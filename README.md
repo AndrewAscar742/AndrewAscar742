@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+### 🛠️ Ferramentas e Tecnologias no dia a dia
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;"><br>
 
