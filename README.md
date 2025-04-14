@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient)
 
 <h1>Olá, eu sou Andrew Matos Ascar, Desenvolvedor Backend java</h1>
@@ -7,7 +8,7 @@
 <hr>
 <br>
 
-<div align="center">
+
   <div style="display: inline_block">
     <a href="https://github.com/AndrewAscar742">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewAscar742&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
