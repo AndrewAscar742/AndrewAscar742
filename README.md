@@ -35,9 +35,8 @@
   <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="JMeter" height="50" src="https://raw.githubusercontent.com/badges/shields/master/logo/jmeter.svg" />
-  <img alt="Robot Framework" height="50" src="https://raw.githubusercontent.com/robotframework/robotframework/master/doc/logo/robot-framework-logo.png" />
-
+  <img alt="Apache JMeter" height="50" src="https://jmeter.apache.org/images/jmeter_square.svg" />
+  <img alt="Robot Framework" height="50" src="https://github.com/robotframework/visual-identity/raw/master/logo/robot-framework-logo.png" />
 </div>
 
 ---
