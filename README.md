@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/andrew-matos-ascar-0330b21b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=footer)
 </div>
 
 
