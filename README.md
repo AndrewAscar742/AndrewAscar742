@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats & Linguagens
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewAscar742&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
