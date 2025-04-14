@@ -2,11 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&customColorList=0,2,2,5,30)
 
-<h1>Olá, eu sou Andrew Matos Ascar, Desenvolvedor Backend java</h1>
-<h3> - 📘 I’m currently learning about Springboot, ReactJS, JavaWeb and Java & Persistence </h3>
-<h3> - 📫 My hobbies in the free time is Play Table-Tennis, play videogame, listen songs and doing exercises </h3>
-<h3> - 👩🏻‍💻 The phrase that i most love is: "Never give up"
-<hr>
+<h1>Olá, me chamo Andrew Ascar, Engenheiro de Software Java, é um prazer-lo ter por aqui!</h1>
+<h3> - 📘 Atualmente estudando Engenharia de Software, Arquitetura de Software e Performance de Software no segmento Testes e Desenvolvimento</h3>
+<h3> - 📫 Nas horas vagas gosto de jogar com meus amigos!</h3>
+<h3> - 👩🏻‍💻 Disciplina e Constância nos leva a lugares onde a motivação não leva</h3>
+<hr />
 <br>
 
 
