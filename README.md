@@ -15,10 +15,16 @@
 
 ### 📊 GitHub Stats & Linguagens
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewAscar742&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAscar742&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewAscar742&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAscar742&layout=compact&langs_count=7&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
