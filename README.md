@@ -66,7 +66,7 @@
 <!-- Middleware (Mensageria & Testes) -->
 <h4>📡 Middleware & Teste de Performance</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img alt="RabbitMQ" height="50" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" />
+  <img alt="RabbitMQ" height="35" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" />
   <img alt="Apache JMeter" height="50" style="margin: 5px;" src="https://jmeter.apache.org/images/jmeter_square.svg" />
   <img alt="Robot Framework" height="50" style="margin: 5px;" src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.png" />
 </div>
