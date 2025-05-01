@@ -61,6 +61,7 @@
   <img alt="Jenkins" height="50" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img alt="Azure" height="50" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img alt="Git" height="50" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Tomcat" height="50" style="margin: 5px;" src="https://camo.githubusercontent.com/78c2eddcd2900d88c2176f4c9898e49cd133d6ba8555a131cecc2c01dd006f1e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f746f6d6361742f746f6d6361742d6f726967696e616c2d776f72646d61726b2e737667"
 </div>
 
 <!-- Middleware (Mensageria & Testes) -->
